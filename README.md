@@ -4,8 +4,16 @@ iOS Credit Card Form is a ready-made card form UI that can be included in your a
 
 ## Usage
 
-To run the example project: clone the repo and run `pod install`. Then, open up the xcworkspace and run the Sample app.
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Installation
 
 iOS Card Form will be available through [CocoaPods](https://cocoapods.org/) - coming soon.
+
+## Authors
+
+[The developers of Braintree iOS](https://github.com/braintree/braintree_ios)
+
+## License
+
+CreditCardForm is available under the MIT license. See the LICENSE file for more info.
