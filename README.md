@@ -2,6 +2,8 @@
 
 iOS Credit Card Form is a ready-made card form UI that can be included in your app, making it easy to accept credit and debit cards.
 
+![Card Form Demo Animation](/CardForm.gif?raw=true "Card Form Demo Animation")
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
